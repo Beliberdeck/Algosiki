@@ -1,1 +1,6 @@
-
+distance = list(map(int, input().split()))
+costkm = list(map(int, input().split()))
+distance.sort()
+costkm.sort(reverse=True)
+total = sum(d * r for d, r in zip(distance, costkm))
+print(total)
