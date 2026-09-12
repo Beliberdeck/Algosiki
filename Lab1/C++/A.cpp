@@ -20,11 +20,8 @@ int main() {
     vector<int> A;
     int x;
     while (cin >> x) A.push_back(x);
-
     A = SelectionSort(A);
-
     for (int i = 0; i < (int)A.size(); i++)
         cout << A[i] << (i + 1 < (int)A.size() ? " " : "\n");
-
     return 0;
 }
