@@ -1,7 +1,6 @@
 def merge_sort(A):
     if len(A) <= 1:
         return A
-
     mid = len(A) // 2
     left = merge_sort(A[:mid])
     right = merge_sort(A[mid:])
