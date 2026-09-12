@@ -9,18 +9,18 @@ def merge_sort(A):
 
 
 def merge(left, right):
-    result = []
+    res = []
     i = j = 0
     while i < len(left) and j < len(right):
         if left[i] <= right[j]:
-            result.append(left[i])
+            res.append(left[i])
             i += 1
         else:
-            result.append(right[j])
+            res.append(right[j])
             j += 1
-    result.extend(left[i:])
-    result.extend(right[j:])
-    return result
+    res.extend(left[i:])
+    res.extend(right[j:])
+    return res
 
 
 n = int(input())
