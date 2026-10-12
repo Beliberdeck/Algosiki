@@ -6,7 +6,7 @@
 | --- | --------------------------------------------- | -------------------------------------------------------------- |
 | 1 | Сортировки                                    | [Lab1](https://github.com/Beliberdeck/Algosiki/blob/main/Lab1) |
 | 2 | Бинарный поиск                                | [Lab2](https://github.com/Beliberdeck/Algosiki/blob/main/Lab2) |
-| 3 | Контейнеры (стек, очередь, дек)               | Lab3                                                           |
+| 3 | Контейнеры (стек, очередь, дек)               | [Lab3](https://github.com/Beliberdeck/Algosiki/tree/main/Lab3) |                                                         
 | 4 | Куча                                          | Lab4                                                           |
 | 5 | Двоичные деревья поиска                       | Lab5                                                           |
 | 6 | Невзвешенные графы, DFS и BFS                 | Lab6                                                           |
