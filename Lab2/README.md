@@ -108,4 +108,4 @@
 
 | Язык | Решение |
 |------|---------|
-| C++ | [H.cpp](C++/H.cpp) |
+| C++ | [H.cpp](https://github.com/Beliberdeck/Algosiki/blob/main/Lab2/С%2B%2B/H.cpp) |
