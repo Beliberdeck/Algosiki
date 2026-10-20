@@ -66,7 +66,7 @@
 
 | Язык | Решение |
 |------|---------|
-| C++ | [E.cpp](C++/E.cpp) |
+| C++ | [E.cpp](https://github.com/Beliberdeck/Algosiki/blob/main/Lab2/С%2B%2B/E.cpp) |
 
 ---
 
@@ -80,7 +80,7 @@
 
 | Язык | Решение |
 |------|---------|
-| C++ | [F.cpp](C++/F.cpp) |
+| C++ | [F.cpp](https://github.com/Beliberdeck/Algosiki/blob/main/Lab2/С%2B%2B/F.cpp) |
 
 ---
 
@@ -94,7 +94,7 @@
 
 | Язык | Решение |
 |------|---------|
-| C++ | [G.cpp](C++/G.cpp) |
+| C++ | [G.cpp](https://github.com/Beliberdeck/Algosiki/blob/main/Lab2/С%2B%2B/G.cpp) |
 
 ---
 
