@@ -7,7 +7,7 @@ def main():
     for i in range(n):
         t = int(data[1 + 2 * i]); l = int(data[2 + 2 * i])
         ev.append((t, 1))        # начало
-        ev.append((t + l, 0))    # конец (на тот же момент обрабатывается раньше начала)
+        ev.append((t + l, 0))
     ev.sort()
     cur = best = 0
     for _, typ in ev:
