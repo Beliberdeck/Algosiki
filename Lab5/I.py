@@ -50,13 +50,7 @@ def inorder(L, R):
     return res
 
 
-def bfs(L, R):
-    # обход в ширину
-    order = [0] if L else []
-    for u in order:
-        if L[u] != -1: order.append(L[u])
-        if R[u] != -1: order.append(R[u])
-    return order
+
 
 
 val, L, R, cnt = build(read_seq())
