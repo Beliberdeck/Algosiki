@@ -49,7 +49,12 @@ def inorder(L, R):
         cur = R[cur]
     return res
 
-
+def bfs(L, R):
+    order = [0] if L else []
+    for u in order:
+        if L[u] != -1: order.append(L[u])
+        if R[u] != -1: order.append(R[u])
+    return order
 
 
 
